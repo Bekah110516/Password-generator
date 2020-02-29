@@ -1,6 +1,5 @@
 .nav-text {
     font-family: monospace;
-
 }
 
 .container {
@@ -10,14 +9,8 @@
     border-style: outset;
     background-color: lightgrey;
     font-family: monospace;
-  
-  
-}
-
-.content{
-
 }
 
 #display {
-
+    overflow-wrap: break-word;
 }
